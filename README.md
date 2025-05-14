@@ -58,7 +58,7 @@ I’m passionate about network security, system monitoring, and hands-on learnin
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-lightgrey?style=flat)
 
 
-[LinkedIn](https://www.linkedin.com/in/samuele-sparno-2003ss/)  
+[Linkedin](https://www.linkedin.com/in/samuele-sparno-2003ss/)  
 Email: sparno.samuele70@gmail.com
 [Download CV](https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf)
 
