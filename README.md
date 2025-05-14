@@ -8,7 +8,7 @@ I’m passionate about network security, system monitoring, and hands-on learnin
 ## 🚀 Featured Projects
 
 - 📡 **[Network Monitoring Infrastructure – Thesis](https://github.com/Sewaaa/Monitoraggio-infrastruttura-di-rete)**  
-  Designed and deployed a VLAN-based infrastructure with Nagios monitoring, NSClient++, Postfix alerts and FortiGate firewall.
+  Designed and deployed a VLAN-based infrastructure with Nagios monitoring and alerts, NSClient++, Postfix and FortiGate firewall.
 
 - 🗣️ **[TalkAID](https://github.com/pastore99/TalkAID)**  
   Remote speech therapy web platform. Includes user/session management, exercise tracking and AI-based recommendations.
