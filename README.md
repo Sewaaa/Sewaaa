@@ -57,9 +57,16 @@ I’m passionate about network security, system monitoring, and hands-on learnin
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white)
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-lightgrey?style=flat)
 
+## 📫 Contact Me
 
-[Linkedin](https://www.linkedin.com/in/samuele-sparno-2003ss/)  
-Email: sparno.samuele70@gmail.com
-[Download CV](https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/samuele-sparno-2003ss/))  
+  Connect with me on **LinkedIn**
+
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sparno.samuele70@gmail.com)  
+  Send me an **email**
+
+- [![CV](https://img.shields.io/badge/-Download%20CV-blue?style=flat&logo=adobeacrobatreader&logoColor=white)]([https://link-al-tuo-cv](https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf))  
+  View or download my **curriculum vitae**
+
 
 
