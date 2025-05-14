@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Samuele Sparno
 
-Passionate about building reliable backend systems and monitoring infrastructures.  
-Currently focused on Java, network automation, and systems engineering.
+Computer Science graduate currently pursuing a Master's degree in Cybersecurity.  
+I’m passionate about network security, system monitoring, and hands-on learning through platforms like Hack The Box.
+
 
 ---
 
