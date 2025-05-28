@@ -63,6 +63,10 @@ I’m passionate about network security, system monitoring, and hands-on learnin
   <a href="https://www.linkedin.com/in/samuele-sparno-2003ss/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+   <!-- Instagram -->
+  <a href="https://www.instagram.com/samuele.sparno/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
   <!-- Email -->
   <a href="mailto:sparno.samuele71@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
@@ -71,10 +75,7 @@ I’m passionate about network security, system monitoring, and hands-on learnin
   <a href="https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-%2300A0E3.svg?&style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/sparno.samuele/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+ 
 </p>
 
 
