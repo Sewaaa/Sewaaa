@@ -68,7 +68,7 @@ I’m passionate about network security, system monitoring, and hands-on learnin
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <!-- Email -->
-  <a href="mailto:sparno.samuele71@gmail.com" target="_blank">
+  <a href="mailto:sparno.samuele70@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <!-- Download CV -->
