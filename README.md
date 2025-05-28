@@ -71,6 +71,10 @@ I’m passionate about network security, system monitoring, and hands-on learnin
   <a href="https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-%2300A0E3.svg?&style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sparno.samuele/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 
