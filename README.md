@@ -57,16 +57,24 @@ I’m passionate about network security, system monitoring, and hands-on learnin
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white)
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-lightgrey?style=flat)
 
-## 📫 Contact Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/samuele-sparno-2003ss/))  
-  Connect with me on **LinkedIn**
+<h3 align="center">📫 Contattami</h3>
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/samuele-sparno-2003ss/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <!-- Email -->
+  <a href="mailto:sparno.samuele71@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <!-- Download CV -->
+  <a href="https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-%2300A0E3.svg?&style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+</p>
 
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sparno.samuele70@gmail.com)  
-  Send me an **email**
 
-- [![CV](https://img.shields.io/badge/-Download%20CV-blue?style=flat&logo=adobeacrobatreader&logoColor=white)]([https://link-al-tuo-cv](https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf))  
-  View or download my **curriculum vitae**
 
 
 
