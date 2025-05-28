@@ -57,7 +57,7 @@ I’m passionate about network security, system monitoring, and hands-on learnin
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white)
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-lightgrey?style=flat)
 
-<h3 align="center">📫 Contattami</h3>
+<h3 align="center">📫 Contact Me</h3>
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/samuele-sparno-2003ss/" target="_blank">
