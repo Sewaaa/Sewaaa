@@ -3,12 +3,15 @@
 Computer Science graduate currently pursuing a Master's degree in Cybersecurity.  
 I’m passionate about network security, system monitoring, and hands-on learning through platforms like Hack The Box.
 
-
 ---
+
 ## 🚀 Featured Projects
 
 - 📡 **[Network Monitoring Infrastructure – Thesis](https://github.com/Sewaaa/Monitoraggio-infrastruttura-di-rete)**  
   Designed and deployed a VLAN-based infrastructure with Nagios monitoring and alerts, NSClient++, Postfix and FortiGate firewall.
+
+- 🧠 **[Log Analyzer & Alert System](https://github.com/Sewaaa/log-analyzer-alert-system)**  
+  Python-based mini-SIEM that analyzes auth logs, detects SSH brute-force attacks, sends email alerts, indexes events in Elasticsearch and visualizes them in Grafana.
 
 - 🗣️ **[TalkAID](https://github.com/pastore99/TalkAID)**  
   Remote speech therapy web platform. Includes user/session management, exercise tracking and AI-based recommendations.
@@ -17,6 +20,7 @@ I’m passionate about network security, system monitoring, and hands-on learnin
   E-commerce platform for luxury vehicles. Features vehicle catalog, advanced search, user profiles and checkout simulation.
 
 ---
+
 ## 🛠️ Tech Stack
 
 **Languages**  
@@ -75,9 +79,4 @@ I’m passionate about network security, system monitoring, and hands-on learnin
   <a href="https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-%2300A0E3.svg?&style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
- 
 </p>
-
-
-
-
