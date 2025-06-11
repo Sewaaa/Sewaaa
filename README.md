@@ -23,6 +23,16 @@ I’m passionate about network security, system monitoring, and hands-on learnin
 
 ## 🛠️ Tech Stack
 
+**Cybersecurity & SIEM Tools**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat&logo=elasticsearch&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=flat&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP-lightgrey?style=flat)
+
+
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
