@@ -1,55 +1,64 @@
 # 👋 Hi, I'm Samuele Sparno
 
 Computer Science graduate currently pursuing a Master's degree in Cybersecurity.  
-I’m passionate about network security, system monitoring, and hands-on learning through platforms like Hack The Box.
+I’m passionate about cybersecurity, network security, system monitoring, and hands-on security projects (IoT, log analysis, and infrastructure monitoring).
 
 ---
 
 ## 🚀 Featured Projects
 
+- 🔐 **[Blockchain-Based Video Surveillance System](https://github.com/Sewaaa/BlockchainBased-VideoSurveillance-System)**  
+  Co-developed (2-person team) a secure IoT camera pipeline for motion-triggered capture, encrypted transmission, forensic integrity verification, and blockchain notarization.  
+  Focused on the security/backend side: encrypted data processing, SHA-256 integrity proofs, and IPFS + FireFly/Ethereum integration (hash-only on-chain storage for tamper evidence and traceability).
+
 - 📡 **[Network Monitoring Infrastructure – Thesis](https://github.com/Sewaaa/Monitoraggio-infrastruttura-di-rete)**  
-  Designed and deployed a VLAN-based infrastructure with Nagios monitoring and alerts, NSClient++, Postfix and FortiGate firewall.
+  Designed and deployed a VLAN-based infrastructure with Nagios monitoring and alerts, NSClient++, Postfix, and FortiGate firewall.
 
 - 🧠 **[Log Analyzer & Alert System](https://github.com/Sewaaa/log-analyzer-alert-system)**  
-  Python-based mini-SIEM that analyzes auth logs, detects SSH brute-force attacks, sends email alerts, indexes events in Elasticsearch and visualizes them in Grafana.
+  Python-based mini-SIEM that analyzes auth logs, detects SSH brute-force attacks, sends email alerts, indexes events in Elasticsearch, and visualizes them in Grafana.
 
 - 🗣️ **[TalkAID](https://github.com/pastore99/TalkAID)**  
-  Remote speech therapy web platform. Includes user/session management, exercise tracking and AI-based recommendations.
-
-- 🚘 **[Ecommerce-Car](https://github.com/Sewaaa/ecommerceCar)**  
-  E-commerce platform for luxury vehicles. Features vehicle catalog, advanced search, user profiles and checkout simulation.
+  Remote speech therapy web platform. Includes user/session management, exercise tracking, and AI-based recommendations.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
 
-**Web & Tools**  
-![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=flat&logo=yaml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white)
-![SMTP](https://img.shields.io/badge/SMTP-lightgrey?style=flat)
+**Security, Infra & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat&logo=elasticsearch&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=flat&logo=apachetomcat&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat&logo=mqtt&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-%2365C2CB.svg?style=flat&logo=ipfs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-%232F3134.svg?style=flat&logo=hyperledger&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios-000000.svg?style=flat&logo=nagios&logoColor=white)
 ![Postfix](https://img.shields.io/badge/Postfix-%23D10000.svg?style=flat&logoColor=white)
 ![NSClient++](https://img.shields.io/badge/NSClient++-lightgrey?style=flat)
 ![GNS3](https://img.shields.io/badge/GNS3-%231B365D.svg?style=flat&logo=gns3&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![FortiGate](https://img.shields.io/badge/FortiGate-%23ED1C24.svg?style=flat&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-lightgrey?style=flat)
+![SMTP](https://img.shields.io/badge/SMTP-lightgrey?style=flat)
+![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=flat&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=flat&logo=apachetomcat&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 
 **Operating Systems**  
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white)
@@ -70,19 +79,15 @@ I’m passionate about network security, system monitoring, and hands-on learnin
 
 <h3 align="center">📫 Contact Me</h3>
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/samuele-sparno-2003ss/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-   <!-- Instagram -->
   <a href="https://www.instagram.com/samuele.sparno/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <!-- Email -->
   <a href="mailto:sparno.samuele70@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <!-- Download CV -->
   <a href="https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-%2300A0E3.svg?&style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
