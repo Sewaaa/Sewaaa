@@ -7,9 +7,8 @@ I’m passionate about cybersecurity, network security, system monitoring, and h
 
 ## 🚀 Featured Projects
 
-- 🔐 **[Blockchain-Based Video Surveillance System](https://github.com/Sewaaa/BlockchainBased-VideoSurveillance-System)**  
-  Co-developed (2-person team) a secure IoT camera pipeline for motion-triggered capture, encrypted transmission, forensic integrity verification, and blockchain notarization.  
-  Focused on the security/backend side: encrypted data processing, SHA-256 integrity proofs, and IPFS + FireFly/Ethereum integration (hash-only on-chain storage for tamper evidence and traceability).
+ - 🔐 **[Blockchain-Based Video Surveillance System](https://github.com/Sewaaa/BlockchainBased-VideoSurveillance-System)**  
+  Co-developed (2-person team) a secure IoT camera pipeline for motion-triggered capture and forensic integrity verification, using SHA-256 + IPFS + FireFly/Ethereum to store photo hashes only (not images) for tamper evidence and traceability.
 
 - 📡 **[Network Monitoring Infrastructure – Thesis](https://github.com/Sewaaa/Monitoraggio-infrastruttura-di-rete)**  
   Designed and deployed a VLAN-based infrastructure with Nagios monitoring and alerts, NSClient++, Postfix, and FortiGate firewall.
