@@ -1,27 +1,27 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Samuele Sparno
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25px"> Hi, I'm Samuele Sparno
 
 Computer Science graduate currently pursuing a Master's degree in Cybersecurity.  
 I’m passionate about cybersecurity, network security, system monitoring, and hands-on security projects (IoT, log analysis, and infrastructure monitoring).
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="22px"> Featured Projects
 
- - 🔐 **[Blockchain-Based Video Surveillance System](https://github.com/Sewaaa/BlockchainBased-VideoSurveillance-System)**  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f512/512.gif" alt="🔐" width="20px"> **[Blockchain-Based Video Surveillance System](https://github.com/Sewaaa/BlockchainBased-VideoSurveillance-System)**  
   A secure IoT camera pipeline for motion-triggered capture and forensic integrity verification, using SHA-256 + IPFS + FireFly/Ethereum to store photo hashes only (not images) for tamper evidence and traceability.
 
-- 📡 **[Network Monitoring Infrastructure – Thesis](https://github.com/Sewaaa/Monitoraggio-infrastruttura-di-rete)**  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" alt="📡" width="20px"> **[Network Monitoring Infrastructure – Thesis](https://github.com/Sewaaa/Monitoraggio-infrastruttura-di-rete)**  
   Designed and deployed a VLAN-based infrastructure with Nagios monitoring and alerts, NSClient++, Postfix, and FortiGate firewall.
 
-- 🧠 **[Log Analyzer & Alert System](https://github.com/Sewaaa/log-analyzer-alert-system)**  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" alt="🧠" width="20px"> **[Log Analyzer & Alert System](https://github.com/Sewaaa/log-analyzer-alert-system)**  
   Python-based mini-SIEM that analyzes auth logs, detects SSH brute-force attacks, sends email alerts, indexes events in Elasticsearch, and visualizes them in Grafana.
 
-- 🗣️ **[TalkAID](https://github.com/pastore99/TalkAID)**  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5e3/512.gif" alt="🗣️" width="20px"> **[TalkAID](https://github.com/pastore99/TalkAID)**  
   Remote speech therapy web platform. Includes user/session management, exercise tracking, and AI-based recommendations.
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" alt="🛠️" width="22px"> Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
@@ -76,7 +76,7 @@ I’m passionate about cybersecurity, network security, system monitoring, and h
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white)
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-lightgrey?style=flat)
 
-<h3 align="center">📫 Contact Me</h3>
+<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.gif" alt="📫" width="20px"> Contact Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/samuele-sparno-2003ss/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
