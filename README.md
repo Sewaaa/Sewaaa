@@ -11,7 +11,7 @@ I’m passionate about cybersecurity, network security, system monitoring, and h
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f512/512.gif" alt="🔐" width="20px"> **[Blockchain-Based Video Surveillance System](https://github.com/Sewaaa/BlockchainBased-VideoSurveillance-System)**  
   A secure IoT camera pipeline for motion-triggered capture and forensic integrity verification, using SHA-256 + IPFS + FireFly/Ethereum to store photo hashes only (not images) for tamper evidence and traceability.
 
-- <img src="https://media.giphy.com/media/l3q2OAAx2PCh8YyRy/giphy.gif" width="20" alt="📶"> **[Network Monitoring Infrastructure – Thesis](https://github.com/Sewaaa/Monitoraggio-infrastruttura-di-rete)**  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="20"> **[Network Monitoring Infrastructure – Thesis](https://github.com/Sewaaa/Monitoraggio-infrastruttura-di-rete)**  
   Designed and deployed a VLAN-based infrastructure with Nagios monitoring and alerts, NSClient++, Postfix, and FortiGate firewall.
   
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" alt="🧠" width="20px"> **[Log Analyzer & Alert System](https://github.com/Sewaaa/log-analyzer-alert-system)**  
@@ -22,73 +22,67 @@ I’m passionate about cybersecurity, network security, system monitoring, and h
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" alt="🛠️" width="22px"> Tech Stack
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" alt="🛠️" width="22"> Technical Focus
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+### Programming
 
-**Security, Infra & Tools**  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat&logo=elasticsearch&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat&logo=mqtt&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-%2365C2CB.svg?style=flat&logo=ipfs&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-%232F3134.svg?style=flat&logo=hyperledger&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios-000000.svg?style=flat&logo=nagios&logoColor=white)
-![Postfix](https://img.shields.io/badge/Postfix-%23D10000.svg?style=flat&logoColor=white)
-![NSClient++](https://img.shields.io/badge/NSClient++-lightgrey?style=flat)
-![GNS3](https://img.shields.io/badge/GNS3-%231B365D.svg?style=flat&logo=gns3&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-%23ED1C24.svg?style=flat&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-lightgrey?style=flat)
-![SMTP](https://img.shields.io/badge/SMTP-lightgrey?style=flat)
-![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=flat&logo=yaml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=flat&logo=apachetomcat&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+<img src="https://cdn.simpleicons.org/python/3776AB?viewbox=auto" height="18" alt=""> Python ·
+<img src="https://cdn.simpleicons.org/c/00599C?viewbox=auto" height="18" alt=""> C ·
+<img src="https://cdn.simpleicons.org/cplusplus/00599C?viewbox=auto" height="18" alt=""> C++ ·
+<img src="https://cdn.simpleicons.org/openjdk/ED8B00?viewbox=auto" height="18" alt=""> Java ·
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E?viewbox=auto" height="18" alt=""> JavaScript ·
+<img src="https://cdn.simpleicons.org/mysql/4479A1?viewbox=auto" height="18" alt=""> SQL ·
+<img src="https://cdn.simpleicons.org/solidity/363636?viewbox=auto" height="18" alt=""> Solidity
 
-**Operating Systems**  
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+### Security Engineering
 
-**IDEs**  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=flat&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat&logo=visualstudio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=androidstudio&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-%2300647C.svg?style=flat&logo=apache&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+Secure-by-Design ·
+Network Security ·
+Access Control ·
+Vulnerability Management ·
+Security Hardening ·
+Cryptography (`AES`, `SHA-256`, Digital Signatures) ·
+Integrity Verification
 
-**Project Tools**  
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white)
-![MobaXterm](https://img.shields.io/badge/MobaXterm-lightgrey?style=flat)
+### Detection & Response
 
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.gif" alt="📫" width="20px"> Contact Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuele-sparno-2003ss/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/samuele.sparno/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:sparno.samuele70@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-%2300A0E3.svg?&style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-  </a>
-</p>
+SIEM ·
+Threat Hunting ·
+Log Analysis ·
+Incident Handling ·
+Digital Forensics ·
+Network Traffic Analysis ·
+MITRE ATT&CK
+
+### Infrastructure & Operating Systems
+
+<img src="https://cdn.simpleicons.org/linux/FCC624?viewbox=auto" height="18" alt=""> Linux ·
+<img src="https://cdn.simpleicons.org/docker/2496ED?viewbox=auto" height="18" alt=""> Docker ·
+<img src="https://cdn.simpleicons.org/git/F05032?viewbox=auto" height="18" alt=""> Git ·
+VMware ·
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4?viewbox=auto" height="18" alt=""> Azure ·
+GNS3 ·
+<img src="https://cdn.simpleicons.org/fortinet/EE3124?viewbox=auto" height="18" alt=""> FortiGate ·
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7?viewbox=auto" height="18" alt=""> Cisco ·
+Nagios Core ·
+<img src="https://cdn.simpleicons.org/grafana/F46800?viewbox=auto" height="18" alt=""> Grafana ·
+Postfix
+
+---
+<div align="center">
+
+### Connect
+
+<a href="https://samuelesparno.com">🌐 Website</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samuele-sparno-2003ss/">💼 LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.instagram.com/samuele.sparno/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F?viewbox=auto" height="18" alt=""> Instagram
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:sparno.samuele70@gmail.com">✉️ Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf">📄 CV</a>
+
+</div>
