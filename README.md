@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samuele Sparno
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Samuele Sparno
 
 Computer Science graduate currently pursuing a Master's degree in Cybersecurity.  
 I’m passionate about cybersecurity, network security, system monitoring, and hands-on security projects (IoT, log analysis, and infrastructure monitoring).
