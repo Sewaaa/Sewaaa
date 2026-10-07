@@ -1,7 +1,10 @@
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25px"> Hi, I'm Samuele Sparno
 
-Computer Science graduate currently pursuing a Master's degree in Cybersecurity.  
-I’m passionate about cybersecurity, network security, system monitoring, and hands-on security projects (IoT, log analysis, and infrastructure monitoring).
+Cybersecurity Master's student · <a href="https://samuelesparno.com">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" alt="🌐" width="17px"> samuelesparno.com
+</a>
+
+I’m passionate about cybersecurity, network security, system monitoring, and hands-on security projects — from IoT and log analysis to infrastructure monitoring.
 
 ---
 
@@ -10,9 +13,9 @@ I’m passionate about cybersecurity, network security, system monitoring, and h
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f512/512.gif" alt="🔐" width="20px"> **[Blockchain-Based Video Surveillance System](https://github.com/Sewaaa/BlockchainBased-VideoSurveillance-System)**  
   A secure IoT camera pipeline for motion-triggered capture and forensic integrity verification, using SHA-256 + IPFS + FireFly/Ethereum to store photo hashes only (not images) for tamper evidence and traceability.
 
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" alt="📡" width="20px"> **[Network Monitoring Infrastructure – Thesis](https://github.com/Sewaaa/Monitoraggio-infrastruttura-di-rete)**  
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f0/512.gif" alt="🛰️" width="20px"> **[Network Monitoring Infrastructure – Thesis](https://github.com/Sewaaa/Monitoraggio-infrastruttura-di-rete)**  
   Designed and deployed a VLAN-based infrastructure with Nagios monitoring and alerts, NSClient++, Postfix, and FortiGate firewall.
-
+  
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" alt="🧠" width="20px"> **[Log Analyzer & Alert System](https://github.com/Sewaaa/log-analyzer-alert-system)**  
   Python-based mini-SIEM that analyzes auth logs, detects SSH brute-force attacks, sends email alerts, indexes events in Elasticsearch, and visualizes them in Grafana.
 
