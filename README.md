@@ -83,6 +83,6 @@ Postfix
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:sparno.samuele70@gmail.com">✉️ Email</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Sewaaa/Sewaaa/blob/main/Sparno_Samuele_cv.pdf">📄 CV</a>
+<a href="https://samuelesparno.com/Samuele_Sparno_CV_EN.pdf">📄 CV</a>
 
 </div>
